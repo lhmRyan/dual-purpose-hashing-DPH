@@ -8,15 +8,17 @@ Haomiao Liu, Ruiping Wang, Shiguang Shan, Xilin Chen.
 
 All Rights Reserved.
 
-Contact: haomiao.liu@vipl.ict.ac.cn
+Contact: haomiao.liu@vipl.ict.ac.cn, wangruiping@ict.ac.cn
 
 -------------------------------------------------------------------------
 
 Source Codes:
 =========================================================================
 
-For patent issues, the source codes of this work are released upon request
-for research purposes only. Please contact us for details.
+For patent issues, the source codes and processed data can only be used 
+for none-commercial purpose. Please make appropriate reference to our work
+if you are using the codes for your research. Thank you. Please contact us
+for details. 
 
 -------------------------------------------------------------------------
 
