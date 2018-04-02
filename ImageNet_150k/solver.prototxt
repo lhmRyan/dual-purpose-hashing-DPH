@@ -1,0 +1,14 @@
+net: "ImageNet_150k/train_test.prototxt"
+test_iter: 20
+test_interval: 1000
+test_initialization: false
+base_lr: 0.001
+lr_policy: "fixed"
+display: 100
+average_loss: 100
+max_iter: 29600
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 5000
+snapshot_prefix: "ImageNet_150k/imagenet"
+solver_mode: GPU

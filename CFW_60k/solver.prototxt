@@ -1,0 +1,14 @@
+net: "CFW_60k/train_test.prototxt"
+test_iter: 50
+test_interval: 1000
+test_initialization: true
+base_lr: 0.001
+momentum: 0.9
+weight_decay: 0.0005
+lr_policy: "fixed"
+display: 100
+average_loss: 100
+max_iter: 27500
+snapshot: 5000
+snapshot_prefix: "CFW_60k/CFW"
+solver_mode: GPU
